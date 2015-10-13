@@ -9,7 +9,7 @@ function drawChart() {
         ['Visual/verbal (Reading)',     38.2],
         ['Visual/Nonverbal (images)',      38.2],
         ['Auditory',  31.1],
-        ['Tactile/Kinesthetic', 17.3]
+        ['Tactile/Kinesthetic', 17.3],
             ['Balanced',    22.5]
     ]);
 
