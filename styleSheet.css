@@ -1,0 +1,21 @@
+body {
+    background-color: beige;
+}
+h1 {
+    font-family: fantasy;
+    font-style: oblique;
+    font-size: xx-large;
+    color: red;
+}
+h2 {
+    font-family: fantasy;
+    font-style: oblique;
+    font-size: x-large;
+    color: crimson;
+}
+h3 {
+    font-family: fantasy;
+}
+p {
+    font-family: sans-serif;
+}
